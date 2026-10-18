@@ -1,0 +1,39 @@
+{
+	"prompts": [
+		{
+			"id": "a-how-to-1",
+			"group": "how-to",
+			"lang": "en",
+			"country": "US",
+			"prompt": "How do I put a landing page online without a developer?"
+		},
+		{
+			"id": "b-need-1",
+			"group": "specific-need",
+			"lang": "en",
+			"country": "US",
+			"prompt": "Which page builder can collect form submissions and show visitor stats for free?"
+		},
+		{
+			"id": "c-best-1",
+			"group": "best-of",
+			"lang": "en",
+			"country": "US",
+			"prompt": "What are the best landing page builders for a solo founder in 2026?"
+		},
+		{
+			"id": "d-alt-1",
+			"group": "alternatives",
+			"lang": "en",
+			"country": "US",
+			"prompt": "What are good alternatives to Carrd?"
+		},
+		{
+			"id": "ja-how-to-1",
+			"group": "how-to",
+			"lang": "ja",
+			"country": "JP",
+			"prompt": "エンジニアなしでランディングページを公開するには？"
+		}
+	]
+}

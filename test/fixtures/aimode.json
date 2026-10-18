@@ -1,0 +1,52 @@
+{
+	"status": "success",
+	"task_id": "fixture-aimode",
+	"task_result": {
+		"result_md": "The fastest and easiest way to publish a raw HTML file online for free is by using a **static web hosting platform** . Since your file already contains all the code, you do not need to pay for hosting or manage complicated servers. You will get a real, secure (HTTPS) public URL that you can share with anyone. ([PreviewShip][3]) ([PreviewShip][4])\n\nHere are the three best free methods to take your ChatGPT-generated landing page live in less than five minutes:\n\n### Option 1: Netlify Drop (Easiest & Fastest)\n\nNetlify is a professional hosting platform that offers a completely free tier with generous bandwidth. You don't even need to create an account to test it out. ([YouTube][1]) ([YouTube][2])\n\n\n**Prepare your file:**  Make sure your main HTML file is named exactly **index.html** . If ChatGPT also gave you a separate CSS or JavaScript file, put them all into a single, clean folder on your computer. ([figment.so][6]) ([YouTube][5])  \n\n**Upload:**  Go to the Netlify Drop page.  \n\n**Drag and drop:**  Drag your folder (or your single index.html file) into the designated box on the screen. ([YouTube][1]) ([YouTube][2])  \n\n**Get your URL:**  Within seconds, Netlify will generate a live, public URL (e.g., https://netlify.app). ([YouTube][1]) ([YouTube][2])  \n\n(Optional) If you sign up for a free account, you can go into the site settings to change the \"random-name\" prefix to something custom, like https://netlify.app.  \n\n### Option 2: TinyHost or PreviewShip (Zero Setup)\n\nIf you want an incredibly lightweight, no-fuss tool designed specifically for sharing quick AI-generated pages, you can use specialized preview tools. ([PreviewShip][3]) ([PreviewShip][4])\n\n\n**TinyHost:**  Compress your index.html (and any accompanying asset files) into a .zip file. Drag and drop the zip file onto their homepage, type in a custom name for your subdomain, and click publish. ([YouTube][1])  \n\n**PreviewShip:**  Tailored perfectly for AI artifacts. You can literally copy the raw HTML code from ChatGPT, paste it directly into their web console, and hit deploy to instantly get an HTTPS link. ([PreviewShip][3])  \n\n### Option 3: GitHub Pages (Best for Long-Term Maintenance)\n\nIf you plan on updating your landing page frequently and want to learn a bit of standard web developer workflow, GitHub is the gold standard. ([Repaint][7])\n\n\nCreate a free account on GitHub.  \n\nCreate a new \"Repository\" and name it whatever you like (e.g., my-landing-page).  \n\nSelect the option to upload existing files and drop your index.html file into the repository.  \n\nGo to the repository's **Settings** tab, find the **Pages** menu on the left sidebar, and set the build branch to main (or master).  \n\nHit save. Within a couple of minutes, GitHub will host your landing page for free at https://github.io.  \n\nTo give you the most accurate advice, let me know:\n\n\nDid ChatGPT give you a **single .html file** , or did it give you **separate files** for styling (CSS) and images?  \n\nDo you want to be able to **easily edit the page later** , or do you just want a quick link to show people right now?  \n\nOnce you choose a method, I can walk you through it step-by-step!\n\n\n\n[1]: https://www.youtube.com/watch?v=jdiy6sz1-fk \"YouTube - How to Create Entire Website with ChatGPT (No Coding)\"\n[2]: https://www.youtube.com/watch?v=jG7uDcOIVDw \"YouTube - How to Make a Website Using ChatGPT and Put It Online\"\n[3]: https://previewship.com/guides/publish-ai-generated-html \"PreviewShip - Publish AI-Generated HTML Online | Share a Live URL\"\n[4]: https://previewship.com/guides/chatgpt-html-to-website \"PreviewShip - Turn ChatGPT HTML into a Website URL\"\n[5]: https://www.youtube.com/watch?v=cxdfWXK3yic \"YouTube - How To Make A Website With ChatGPT 5 (2026 Easy Guide)\"\n[6]: https://figment.so/blog/build-static-landing-page-with-chatgpt \"figment.so - Build One Static Landing Page With ChatGPT - Figment\"\n[7]: https://repaint.com/blog/publish-chatgpt-website-with-ai \"Repaint - How to Publish a Website You Made with ChatGPT\"\n   ",
+		"result_text": "The fastest and easiest way to publish a raw HTML file online for free is by using a **static web hosting platform** . Since your file already contains all the code, you do not need to pay for hosting",
+		"citations": [
+			{
+				"title": "How to Create Entire Website with ChatGPT (No Coding)",
+				"url": "https://www.youtube.com/watch?v=jdiy6sz1-fk",
+				"website_name": "YouTube",
+				"snippet": "Tiny Host is a place where you can host your websites for free simply by uploadi"
+			},
+			{
+				"title": "How to Make a Website Using ChatGPT and Put It Online",
+				"url": "https://www.youtube.com/watch?v=jG7uDcOIVDw",
+				"website_name": "YouTube",
+				"snippet": "just drag and drop the file into this area. you can try is Netifi. and I do reco"
+			},
+			{
+				"title": "Publish AI-Generated HTML Online | Share a Live URL",
+				"url": "https://previewship.com/guides/publish-ai-generated-html",
+				"website_name": "PreviewShip",
+				"snippet": "A practical workflow for turning HTML generated by ChatGPT, Claude, Cursor, or a"
+			},
+			{
+				"title": "Turn ChatGPT HTML into a Website URL",
+				"url": "https://previewship.com/guides/chatgpt-html-to-website",
+				"website_name": "PreviewShip",
+				"snippet": "To turn ChatGPT HTML into a website URL, ask ChatGPT for a complete HTML documen"
+			},
+			{
+				"title": "How To Make A Website With ChatGPT 5 (2026 Easy Guide)",
+				"url": "https://www.youtube.com/watch?v=cxdfWXK3yic",
+				"website_name": "YouTube",
+				"snippet": "Open ChatGPT 5 and go to Codex * 0:49 Write your website prompt. Create a GitHub"
+			},
+			{
+				"title": "Build One Static Landing Page With ChatGPT - Figment",
+				"url": "https://figment.so/blog/build-static-landing-page-with-chatgpt",
+				"website_name": "figment.so",
+				"snippet": "Ask ChatGPT for a plain index.html and styles.css from an approved brief, then i"
+			},
+			{
+				"title": "How to Publish a Website You Made with ChatGPT",
+				"url": "https://repaint.com/blog/publish-chatgpt-website-with-ai",
+				"website_name": "Repaint",
+				"snippet": "Traditional developer tools like GitHub and Netlify can host HTML files online, "
+			}
+		]
+	}
+}

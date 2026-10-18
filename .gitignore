@@ -1,0 +1,6 @@
+node_modules/
+.env
+.env.*
+*.key.json
+aio-data/raw/
+test/.tmp-*

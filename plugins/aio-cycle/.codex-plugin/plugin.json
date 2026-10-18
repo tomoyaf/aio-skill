@@ -1,0 +1,27 @@
+{
+	"name": "aio-cycle",
+	"version": "1.0.0",
+	"description": "Measure how ChatGPT, Perplexity, Gemini, and Google AI answers cite your site, read Search Console, find the queries to win, ship pages, get them indexed, and read the results every week.",
+	"author": {
+		"name": "Convika",
+		"url": "https://convika.com"
+	},
+	"homepage": "https://convika.com",
+	"license": "MIT",
+	"keywords": ["seo", "aio", "geo", "ai-search", "search-console", "indexnow"],
+	"skills": "./skills/",
+	"interface": {
+		"displayName": "AIO cycle",
+		"shortDescription": "Weekly Google and AI-answer visibility loop",
+		"longDescription": "Measure how ChatGPT, Perplexity, Gemini, and Google AI answers cite your site, read Search Console, find the queries to win, ship pages, get them indexed, and read the results every week.",
+		"developerName": "Convika",
+		"category": "Productivity",
+		"capabilities": ["Read", "Write"],
+		"websiteURL": "https://convika.com",
+		"defaultPrompt": [
+			"Run this week's AIO cycle for my site",
+			"How often do AI answers cite my domain?",
+			"Which of my pages are not indexed yet?"
+		]
+	}
+}

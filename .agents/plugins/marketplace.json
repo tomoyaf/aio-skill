@@ -1,0 +1,20 @@
+{
+  "name": "aio-skill",
+  "interface": {
+    "displayName": "AIO skill"
+  },
+  "plugins": [
+    {
+      "name": "aio-cycle",
+      "source": {
+        "source": "local",
+        "path": "./plugins/aio-cycle"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

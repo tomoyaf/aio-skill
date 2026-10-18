@@ -1,0 +1,12 @@
+{
+	"name": "aio-cycle",
+	"version": "1.0.0",
+	"description": "Measure how ChatGPT, Perplexity, Gemini, and Google AI answers cite your site, read Search Console, find the queries to win, ship pages, get them indexed, and read the results every week.",
+	"author": {
+		"name": "Convika",
+		"url": "https://convika.com"
+	},
+	"homepage": "https://convika.com",
+	"license": "MIT",
+	"keywords": ["seo", "aio", "geo", "ai-search", "search-console", "indexnow"]
+}

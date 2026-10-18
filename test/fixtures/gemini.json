@@ -1,0 +1,47 @@
+{
+	"status": "success",
+	"task_id": "fixture-gemini",
+	"task_result": {
+		"prompt": "I made a landing page HTML file with ChatGPT. How can I publish it online for free with a real URL?",
+		"result_text": "Publishing your ChatGPT-generated HTML landing page online for free with a public URL is quick and straightforward. You have a few great options depending on whether you want the easiest drop-in hosting or free hosting platforms designed for static files.\n\n---\n\n### Option 1: Instant HTML Hosting Services (Fastest & Easiest)\nSeveral services allow you to paste or upload a single HTML file and instantly generate a live URL without setting up an account or coding tool. ([NudgeHost][1])\n\n*   **PreviewShip** (`previewship.com`): Paste your HTML code or upload your `.html` file, and it instantly generates a secure public URL (`https://...`). ([PreviewShip][2])\n*   **NudgeHost** (`nudgehost.com`): Specifically optimized for AI-generated code. You can paste your ChatGPT HTML code block directly into their uploader to get a live link immediately. ([NudgeHost][3])\n*   **Tiiny Host** (`tiiny.host`): Drag and drop your `.html` file (or a `.zip` folder if you have multiple images or stylesheets), choose a subdomain name, and launch your page over HTTPS in seconds. ([Tiiny.host][4])\n\n---\n\n### Option 2: Netlify Drop (Best Free Developer Platform)\nIf you want a reliable, professional-grade host with a free custom URL (e.g., `your-site-name.netlify.app`), Netlify Drop is a popular choice:\n\n1. Save your ChatGPT HTML code to a text editor (like Notepad or TextEdit) and name the file **`index.html`**. ([Figment][5])\n2. Go to **[Netlify Drop](https://drop.netlify.com)** (no account required to test, though creating a free account lets you keep and rename the link).\n3. Drag and drop your `index.html` file (or a folder containing it and your assets) right into the browser window.\n4. Netlify will instantly deploy it and give you a live live URL. You can later change the random site name to something custom in your site settings.\n\n---\n\n### Option 3: GitHub Pages (Best for Long-Term Hosting)\nIf you plan to update your landing page over time and want a completely free, permanent home:\n\n1. Create a free account on **GitHub**.\n2. Create a new public repository (name it something like `landing-page`).\n3. Upload your file, making sure the main landing page file is named **`index.html`**.\n4. Go to your repository **Settings** > **Pages**, and under \"Build and deployment\", set the branch to `main` (or `root`) and click Save.\n5. GitHub will publish your site at `[https://your-username.github.io/repository-name/](https://your-username.github.io/repository-name/)`.\n\n---\n\n### Pro-Tip Before You Publish:\nMake sure ChatGPT gave you a **self-contained** HTML file. ([NudgeHost][6]) If your design uses custom styling or scripts, ensure the CSS and JavaScript are written directly inside `<style>` and `<script>` tags within that single file, rather than linking to local files that might be missing on the web server.\n\n[1]: https://www.nudgehost.com/host/chatgpt-html#:~:text=Host%20ChatGPT%2Dgenerated%20HTML%20as%20a%20live%20URL.,*%20No%20capon%20visitors%2C%20on%20any%20plan. \"Share ChatGPT HTML as a live link, free - Host - NudgeHost\"\n[2]: https://previewship.com/guides/chatgpt-html-to-website#:~:text=Turn%20ChatGPT%20HTML%20into%20a%20website%20URL.,opens%20the%20generated%20page%20in%20any%20browser. \"Turn ChatGPT HTML into a Website URL - PreviewShip\"\n[3]: https://www.nudgehost.com/host/chatgpt-html#:~:text=Paste%20the%20code.%20Press%20Copy%20on%20ChatGPT's,keep%203%20links%20live%20at%20a%20time. \"Share ChatGPT HTML as a live link, free - Host - NudgeHost\"\n[4]: https://tiiny.host/host-html-file/#:~:text=Hosting%20for%20a%20single%20HTML%20file.%20Tiiny,HTML%20file.%20*%203.%20Launch%20%26%20share. \"Host HTML File Free - Live Link in Seconds\"\n[5]: https://figment.so/blog/build-static-landing-page-with-chatgpt#:~:text=Request%20file%20names%20and%20complete%20contents%20so,the%20copy.%20Use%20a%20mailto%3A%20contact%20link. \"Build One Static Landing Page With ChatGPT - Figment\"\n[6]: https://www.nudgehost.com/host/chatgpt-html#:~:text=Good%20to%20know%20*%20Ask%20ChatGPT%20for,followed%20by%20a%20number%2C%20ending%20in%20. \"Share ChatGPT HTML as a live link, free - Host - NudgeHost\"\n",
+		"citations": [
+			{
+				"title": "Share ChatGPT HTML as a live link, free - Host - NudgeHost",
+				"url": "https://www.nudgehost.com/host/chatgpt-html#:~:text=Host%20ChatGPT%2Dgenerated%20HTML%20as%20a%20live%20URL.,*%20No%20capon%20visitors%2C%20on%20any%20plan.",
+				"website_name": "NudgeHost",
+				"snippet": "Host ChatGPT-generated HTML as a live URL. ChatGPT built you a working \npage, a "
+			},
+			{
+				"title": "Turn ChatGPT HTML into a Website URL - PreviewShip",
+				"url": "https://previewship.com/guides/chatgpt-html-to-website#:~:text=Turn%20ChatGPT%20HTML%20into%20a%20website%20URL.,opens%20the%20generated%20page%20in%20any%20browser.",
+				"website_name": "PreviewShip",
+				"snippet": "Turn ChatGPT HTML into a website URL. Turn ChatGPT-generated HTML into a \nwebsit"
+			},
+			{
+				"title": "Share ChatGPT HTML as a live link, free - Host - NudgeHost",
+				"url": "https://www.nudgehost.com/host/chatgpt-html#:~:text=Paste%20the%20code.%20Press%20Copy%20on%20ChatGPT's,keep%203%20links%20live%20at%20a%20time.",
+				"website_name": "NudgeHost",
+				"snippet": " Paste the code. Press Copy on ChatGPT's code block, open the Paste HTML \ntab on"
+			},
+			{
+				"title": "Host HTML File Free - Live Link in Seconds",
+				"url": "https://tiiny.host/host-html-file/#:~:text=Hosting%20for%20a%20single%20HTML%20file.%20Tiiny,HTML%20file.%20*%203.%20Launch%20%26%20share.",
+				"website_name": "Tiiny.host",
+				"snippet": "Hosting for a single HTML file. Tiiny Host turns an .html file into a web \npage "
+			},
+			{
+				"title": "Build One Static Landing Page With ChatGPT - Figment",
+				"url": "https://figment.so/blog/build-static-landing-page-with-chatgpt#:~:text=Request%20file%20names%20and%20complete%20contents%20so,the%20copy.%20Use%20a%20mailto%3A%20contact%20link.",
+				"website_name": "Figment",
+				"snippet": "Request file names and complete contents so you can put the files in a \nfolder e"
+			},
+			{
+				"title": "Share ChatGPT HTML as a live link, free - Host - NudgeHost",
+				"url": "https://www.nudgehost.com/host/chatgpt-html#:~:text=Good%20to%20know%20*%20Ask%20ChatGPT%20for,followed%20by%20a%20number%2C%20ending%20in%20.",
+				"website_name": "NudgeHost",
+				"snippet": " Good to know * Ask ChatGPT for one self-contained HTML file with the CSS \nand J"
+			}
+		],
+		"related_queries": []
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"status": "success",
+	"task_id": "fixture-perplexity",
+	"task_result": {
+		"prompt": "I made a landing page HTML file with ChatGPT. How can I publish it online for free with a real URL?",
+		"result_text": "Publish it with a free static hosting service that provides a real URL. Options include:\n- Netlify Drop or Netlify (free tier) — upload your index.html and get a live URL.\n- HTMLPub or HTML Launch-style services — paste HTML and get a shareable URL.\n- Tiiny.host or static hosting services that give a live link from a file upload.\n- FYLO or MakeMySiteLive-style hosts — paste HTML or upload ZIP to receive a public URL.\n\nSteps (typical):\n- Copy your HTML code from ChatGPT.\n- Choose a free hosting option and either paste the HTML into a editor or upload the HTML file (often as index.html) or a ZIP.\n- Publish or deploy to receive a live URL you can share.\n\nExamples you can try:\n- Netlify Drop: drag and drop index.html, get a live URL instantly (free tier).\n- HTMLPub: paste HTML, get a live URL like htmlpub.com/p/your-page-slug.\n- Tiiny.host: drag file or ZIP, get a link (free tier limits small sites).\n\nIf you want, tell me which option you prefer (drag-and-drop, paste-and-publish, or a specific service), and I’ll give precise steps.",
+		"web_results": [
+			{
+				"name": "ChatGPT Made Me a Website. How Do I Publish It?",
+				"snippet": "ChatGPT built you a website but it's stuck in the chat. Here's how to make it li",
+				"url": "https://htmlaunch.com/blog/chatgpt-website-publish/"
+			},
+			{
+				"name": "How to Publish HTML Online in Seconds (No Server Required)",
+				"snippet": "Publishing HTML online used to mean dealing with servers, FTP clients, and DNS s",
+				"url": "https://htmlpub.com/blog/how-to-publish-html-online"
+			},
+			{
+				"name": "How to Publish a Website from ChatGPT - HTML Pub",
+				"snippet": "How to publish a website from ChatGPT: copy the HTML and paste it live with HTML",
+				"url": "https://htmlpub.com/blog/publish-website-from-chatgpt"
+			},
+			{
+				"name": "How to Publish a Website Made With ChatGPT (Live in Under ...",
+				"snippet": "ChatGPT gives you HTML. This tutorial covers every way to turn that file into a ",
+				"url": "https://dropthis.app/blog/how-to-publish-website-made-with-chatgpt/"
+			},
+			{
+				"name": "static.app · chatgpt-hostingHost a Website Made with ChatGPT",
+				"snippet": "ChatGPT writes your website code. Save the HTML, upload, and get a live URL. No ",
+				"url": "https://static.app/chatgpt-hosting"
+			},
+			{
+				"name": "Host AI-Generated Websites from Claude & ChatGPT",
+				"snippet": "Turn HTML made with Claude or ChatGPT into a website you can share. Upload your ",
+				"url": "https://www.linkyhost.com/use-cases/host-ai-generated-website"
+			},
+			{
+				"name": "How to Host ChatGPT's HTML Output (2026 Guide)",
+				"snippet": "A step-by-step 2026 guide to hosting the HTML ChatGPT generates. Copy the code o",
+				"url": "https://host-html.com/blog/host-chatgpt-html-output"
+			},
+			{
+				"name": "From ChatGPT to Live Website: Complete Publishing Guide",
+				"snippet": "Turn your ChatGPT-generated HTML into a real website with a custom domain. Compl",
+				"url": "https://tinycms.pro/guides/from-chatgpt-to-live-website-complete-publishing-guide-2026"
+			},
+			{
+				"name": "Make Your Website Live in 2 Minutes — Free Static Site Hosting ...",
+				"snippet": "Upload a ZIP of your HTML site and go live instantly. Free SSL, free subdomain, ",
+				"url": "https://www.makemysitelive.com/"
+			},
+			{
+				"name": "ChatGPT Website Hosting — Host the Site ChatGPT Made, Free",
+				"snippet": "ChatGPT gave you a block of HTML. Paste it, get a public URL anyone can open. Wo",
+				"url": "https://fylo.host/ai-builder/chatgpt-website-hosting"
+			}
+		],
+		"related_prompt": null
+	}
+}

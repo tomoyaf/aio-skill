@@ -1,0 +1,93 @@
+{
+	"status": "success",
+	"task_id": "fixture-chatgpt",
+	"task_result": {
+		"prompt": "I made a landing page HTML file with ChatGPT. How can I publish it online for free with a real URL?",
+		"model": "gpt-5-6",
+		"web_search": true,
+		"result_text": "Yes - if it’s a normal landing page made with **HTML/CSS/JavaScript**, you can put it online for free and get a real shareable URL.\n\n### Easiest option: Netlify\n\nI’d recommend **Netlify Drop** if you just want to get your page online quickly.\n\n1. Make sure your main file is named **`index.html`**.\n2. Put `index.html` and any CSS, JavaScript, images, or other files it uses into one folder.\n3. Open Netlify Drop.\n4. Drag your **folder** onto the page.\n5. Netlify publishes it and gives you a URL ending in **`.netlify.app`**. ([Netlify][1])\n\nFor example, you might get:\n\n`https://my-awesome-landing-page.netlify.app`\n\nYou can then send that URL to anyone.\n\n**Important:** If you want the site to stay online and be manageable later, create a free Netlify account and claim the site. Netlify also lets you redeploy updated files by dragging the folder again. ([Netlify Docs][2])\n\n### Other good free options\n\n- **GitHub Pages** - excellent if you're comfortable putting your HTML files in a GitHub repository. Free GitHub accounts can use Pages with public repositories, and you get a `github.io` URL. ([GitHub Docs][3])\n- **Cloudflare Pages** - another free option that supports static HTML and can give you a `pages.dev` URL. ([Cloudflare Docs][4])\n\n### What I'd use in your situation\n\nIf **ChatGPT already created the HTML for you and you just have the file on your computer**, use **Netlify Drop**. It's basically:\n\n**HTML file → drag & drop → live website → real URL**\n\nIf you want, **upload your HTML file here**, and I can also check whether it's ready to publish (including whether your CSS/images/JavaScript links will work) and tell you exactly what to do.\n\n\n[1]: https://app.netlify.com/drop?key=site&utm_source=chatgpt.com \"Netlify - Drop | Netlify\"\n[2]: https://docs.netlify.com/start/quickstarts/netlify-drop-quickstart/?utm_source=chatgpt.com \"Netlify Docs - Netlify Drop Quickstart | Netlify Docs\"\n[3]: https://docs.github.com/en/pages/getting-started-with-github-pages?utm_source=chatgpt.com \"GitHub Docs - Getting started with GitHub Pages - GitHub Docs\"\n[4]: https://developers.cloudflare.com/pages/?utm_source=chatgpt.com \"Cloudflare Docs - Overview · Cloudflare Pages docs\"",
+		"links": [
+			"https://app.netlify.com/drop?key=site",
+			"https://app.netlify.com/drop?key=site&utm_source=chatgpt.com",
+			"https://developers.cloudflare.com/pages/",
+			"https://developers.cloudflare.com/pages/?utm_source=chatgpt.com",
+			"https://developers.cloudflare.com/pages/framework-guides/deploy-anything/",
+			"https://developers.cloudflare.com/pages/framework-guides/deploy-anything/?utm_source=chatgpt.com",
+			"https://docs.github.com/en/pages/getting-started-with-github-pages",
+			"https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages",
+			"https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages?utm_source=chatgpt.com",
+			"https://docs.github.com/en/pages/getting-started-with-github-pages?utm_source=chatgpt.com",
+			"https://docs.netlify.com/start/quickstarts/netlify-drop-quickstart/",
+			"https://docs.netlify.com/start/quickstarts/netlify-drop-quickstart/?utm_source=chatgpt.com"
+		],
+		"content_references": [
+			{
+				"attribution": "Netlify",
+				"title": "Drop | Netlify",
+				"url": "https://app.netlify.com/drop?key=site&utm_source=chatgpt.com"
+			},
+			{
+				"attribution": "Netlify Docs",
+				"title": "Netlify Drop Quickstart | Netlify Docs",
+				"url": "https://docs.netlify.com/start/quickstarts/netlify-drop-quickstart/?utm_source=chatgpt.com"
+			},
+			{
+				"attribution": "GitHub Docs",
+				"title": "Getting started with GitHub Pages - GitHub Docs",
+				"url": "https://docs.github.com/en/pages/getting-started-with-github-pages?utm_source=chatgpt.com"
+			},
+			{
+				"attribution": "Cloudflare Docs",
+				"title": "Overview · Cloudflare Pages docs",
+				"url": "https://developers.cloudflare.com/pages/?utm_source=chatgpt.com"
+			}
+		],
+		"search_model_queries": {
+			"queries": [
+				"GitHub Pages official documentation publish static site free",
+				"Netlify Drop official deploy static site free",
+				"Cloudflare Pages official direct upload static site"
+			],
+			"type": "search_model_queries"
+		},
+		"search_result": [
+			{
+				"attribution": "github.com",
+				"snippet": "WHAT IS GITHUB PAGES?  You can use GitHub Pages to host a website about yourself",
+				"title": "What is GitHub Pages? - GitHub Docs",
+				"url": "https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages?utm_source=chatgpt.com"
+			},
+			{
+				"attribution": "github.com",
+				"snippet": "title  | What is {% data variables.product.prodname_pages %}? intro  | You can u",
+				"title": "docs/content/pages/getting-started-with-github-pages/what-is-github-pages.md at main · github/docs · GitHub",
+				"url": "https://github.com/github/docs/blob/main/content/pages/getting-started-with-github-pages/what-is-github-pages.md?utm_source=chatgpt.com"
+			},
+			{
+				"attribution": "github.com",
+				"snippet": "GITHUB PAGES DOCUMENTATION  GitHub Pages turns any GitHub repository into a live",
+				"title": "GitHub Pages documentation - GitHub Docs",
+				"url": "https://pages.github.com/versions/?utm_source=chatgpt.com"
+			},
+			{
+				"attribution": "github.com",
+				"snippet": "title: Creating a GitHub Pages site  intro: 'You can create a {% data variables.",
+				"title": "docs/content/pages/getting-started-with-github-pages/creating-a-github-pages-site.md at main · github/docs · GitHub",
+				"url": "https://github.com/github/docs/blob/main/content/pages/getting-started-with-github-pages/creating-a-github-pages-site.md?plain=1&utm_source=chatgpt.com"
+			},
+			{
+				"attribution": "github.com",
+				"snippet": "title  | GitHub Pages limits intro  | Learn about the limits and limitations of ",
+				"title": "docs/content/pages/getting-started-with-github-pages/github-pages-limits.md at main · github/docs · GitHub",
+				"url": "https://github.com/github/docs/blob/main/content/pages/getting-started-with-github-pages/github-pages-limits.md?utm_source=chatgpt.com"
+			},
+			{
+				"attribution": "github.com",
+				"snippet": "title  | Changing the visibility of your GitHub Pages site intro  | You can mana",
+				"title": "docs/content/pages/getting-started-with-github-pages/changing-the-visibility-of-your-github-pages-site.md at main · github/docs · GitHub",
+				"url": "https://github.com/github/docs/blob/main/content/pages/getting-started-with-github-pages/changing-the-visibility-of-your-github-pages-site.md?utm_source=chatgpt.com"
+			}
+		],
+		"products": []
+	}
+}

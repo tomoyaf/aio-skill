@@ -1,0 +1,21 @@
+{
+	"name": "aio-skill",
+	"owner": {
+		"name": "Convika",
+		"url": "https://convika.com"
+	},
+	"metadata": {
+		"description": "A weekly loop for Google and AI-answer visibility: measure, find the queries, ship pages, get them indexed, read the results.",
+		"version": "1.0.0"
+	},
+	"plugins": [
+		{
+			"name": "aio-cycle",
+			"source": "./plugins/aio-cycle",
+			"description": "Measure how ChatGPT, Perplexity, Gemini, and Google AI answers cite your site, read Search Console, find the queries to win, ship pages, get them indexed, and read the results every week.",
+			"version": "1.0.0",
+			"category": "marketing",
+			"keywords": ["seo", "aio", "geo", "ai-search", "search-console", "indexnow"]
+		}
+	]
+}
